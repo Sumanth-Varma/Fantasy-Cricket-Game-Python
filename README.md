@@ -6,3 +6,5 @@ These .ui files are conerted into .py files and some definitions are added to ca
 players_DB is a database file created using Sqlitestudio.
 
 Run the Fantasy_cricket.py file.
+
+![Main screen]()
