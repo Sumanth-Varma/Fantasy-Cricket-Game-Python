@@ -7,4 +7,4 @@ players_DB is a database file created using Sqlitestudio.
 
 Run the Fantasy_cricket.py file.
 
-![Main screen]()
+![Main screen](Game-Screens/fantasy_cricket.PNG)
