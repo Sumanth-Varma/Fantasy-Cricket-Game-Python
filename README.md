@@ -20,3 +20,5 @@ you can check your team after saving by clicking open team in dropdown menu.
 Next you can calculate your team score by clicking on evaluate team in dropdown menu.
 
 ![Evaluate team screen](Game-Screens/evaluate_team.PNG)
+
+Total points of team created by user can be seen after clicking evaluate button.   
